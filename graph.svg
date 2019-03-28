@@ -1,0 +1,24 @@
+
+
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+<circle cx="0" cy="100" r="54" fill="purple" />
+<circle cx="15" cy="100" r="6" fill="purple" />
+<circle cx="30" cy="100" r="21" fill="purple" />
+<circle cx="45" cy="100" r="4" fill="purple" />
+<circle cx="60" cy="100" r="7" fill="purple" />
+<circle cx="75" cy="100" r="6" fill="purple" />
+<circle cx="90" cy="100" r="5" fill="purple" />
+<circle cx="105" cy="100" r="3" fill="purple" />
+<circle cx="120" cy="100" r="1" fill="purple" />
+<circle cx="135" cy="100" r="1" fill="purple" />
+<circle cx="150" cy="100" r="1" fill="purple" />
+<circle cx="165" cy="100" r="2" fill="purple" />
+<circle cx="180" cy="100" r="7" fill="purple" />
+<circle cx="195" cy="100" r="1" fill="purple" />
+<circle cx="210" cy="100" r="5" fill="purple" />
+<circle cx="225" cy="100" r="15" fill="purple" />
+<circle cx="240" cy="100" r="4" fill="purple" />
+<circle cx="255" cy="100" r="2" fill="purple" />
+<circle cx="270" cy="100" r="1" fill="purple" />
+<circle cx="285" cy="100" r="1" fill="purple" />
+</svg>
